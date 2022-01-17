@@ -1,9 +1,14 @@
 header {
-  text-align: center;
   font-family: Helvetica;
   color: #271f44;
   margin-bottom: 0px;
   font-size: 30px;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  top: 0;
+  padding: 7px;
 }
 
 h2 {
@@ -41,8 +46,10 @@ button:hover {
 .roadpic {
   display: block;
   margin: auto;
+  padding: 5px;
 }
 .drivingvid {
   display: block;
   margin: auto;
+  padding: 5px;
 }
