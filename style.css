@@ -53,3 +53,12 @@ button:hover {
   margin: auto;
   padding: 5px;
 }
+.row {
+  padding: 40px;
+}
+
+.col {
+  border: 2px dotted black;
+  text-align: center;
+  text-decoration: brown;
+}
