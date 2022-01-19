@@ -60,5 +60,7 @@ button:hover {
 .col {
   border: 2px dotted black;
   text-align: center;
-  text-decoration: brown;
+}
+label {
+  display: block;
 }
